@@ -16,10 +16,10 @@
         <div class="container-fluid">
             <div class="row">
                 <div class="col-md-12" id="app">
-                    <example-component/>
+                    {{--  <example-component/>  --}}
+                    <directory-component></directory-component>
                 </div>
             </div>
-
         </div>
 
 

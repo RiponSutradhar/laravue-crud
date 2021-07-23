@@ -18,4 +18,4 @@ use Illuminate\Support\Facades\Route;
 //     return $request->user();
 // });
 
-Route::apiResource('name', 'TelController');
+Route::apiResource('tel',"TelController");
